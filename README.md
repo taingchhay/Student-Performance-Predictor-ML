@@ -1,5 +1,4 @@
 # Student-Performance-Predictor-ML
-# Student Performance Predictor
 
 A machine learning project that predicts a student's **final grade** and whether they will **pass or fail**, so teachers can find students who need help early, while there is still time to help them.
 
